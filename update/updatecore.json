@@ -1,0 +1,13 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/revivalcore",
+
+  "promos": {
+    "1.12.2-latest": "0.1.8",
+    "1.12.2-recommended": "0.1.8"
+  },
+
+  "1.12.2": {
+    "0.1.4": "First Alpha",
+    "0.1.8": "Second Alpha = Multiplater Support"
+  }
+}
